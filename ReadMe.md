@@ -24,3 +24,5 @@ Game AI for both zombie and player, level loading for every level.
 ![End](https://raw.githubusercontent.com/Dominic789654/CS425_Final/master/img/End.png)
 
 
+There are two videos, one is normal running, another is poor quality recording with introducing.
+The app only running on Mac, and need change your mac privacy setting to open unknow softwares.
